@@ -10,7 +10,7 @@
 2. Empty tiles are filled in with white blocks (only camera 2 render this)
 3. A gaussian blur is applied to the camera rendering the white blocks
 4. SpriteLightKit blends the two cameras, darkening everything not covered by the white blurry.
-5. You can adjust the "light" penetration by changing the white tiles Pixels Per Unit. 
+5. You can adjust the "light" penetration by changing the white tile's sprite's Pixels Per Unit. 
 
 #Credit:
 
