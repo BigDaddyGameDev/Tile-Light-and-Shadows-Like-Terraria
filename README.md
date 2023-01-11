@@ -6,4 +6,5 @@
 Credit:
 
 [prime31's SpriteLightKit](https://github.com/BigDaddyGameDev/SpriteLightKit)
+
 [keijiro's GaussianBlur](https://github.com/keijiro/GaussianBlur)
