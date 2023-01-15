@@ -26,3 +26,7 @@
 
 [keijiro's GaussianBlur](https://github.com/keijiro/GaussianBlur)
 
+#To Do:
+
+- Add light sources (e.g. torches)
+- Day / night Cycle
